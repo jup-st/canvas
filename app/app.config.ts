@@ -4,9 +4,9 @@ export default defineAppConfig({
     available: false,
   },
   profile: {
-    name: 'Jupiter Satt',
+    name: 'Jupiter',
     job: 'Web developer',
-    email: 'jupitersatt001@protonmail.com',
+    email: 'jupiter@protonmail.com',
     phone: '(+95) 9 795829',
     picture: 'https://imgs.search.brave.com/wehtenyA8R7GPnd3nUZSZHc7MqKq1ZR-YWkbQIrhruQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDY0MDkz/OTguanBn',
   },
