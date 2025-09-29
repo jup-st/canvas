@@ -1,14 +1,14 @@
 export default defineAppConfig({
   global: {
     meetingLink: 'https://cal.com/hugorcd/15min',
-    available: true,
+    available: false,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    name: 'Jupiter Satt',
+    job: 'Web developer',
+    email: 'jupitersatt001@protonmail.com',
+    phone: '(+95) 9 795829',
+    picture: 'https://imgs.search.brave.com/wehtenyA8R7GPnd3nUZSZHc7MqKq1ZR-YWkbQIrhruQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDY0MDkz/OTguanBn',
   },
   socials: {
     github: 'https://github.com/HugoRCD',
@@ -18,7 +18,7 @@ export default defineAppConfig({
     spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
+    title: 'Portfolio',
     description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
     url: 'https://canvas.hrcd.fr',
   },
